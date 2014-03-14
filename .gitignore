@@ -1,5 +1,10 @@
-bin
-gen
-.gradle
-build
-.settings
+# Build output
+bin/
+gen/
+out/
+build/
+
+#IDE/OS Noise
+.DS_Store
+*.iml
+local.properties
