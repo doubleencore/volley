@@ -23,4 +23,4 @@ android {
 }
 
 apply from: 'rules.gradle'
-apply from: '../gradle-mvn-push.gradle'
+apply from: "$GRADLE_SCRIPTS/gradle-mvn-push.gradle"
