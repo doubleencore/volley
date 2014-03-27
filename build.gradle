@@ -38,4 +38,4 @@ android {
     }
 }
 
-apply from: '../gradle-mvn-push.gradle'
+apply from: "$GRADLE_SCRIPTS/gradle-mvn-push.gradle"
