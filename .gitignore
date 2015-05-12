@@ -2,9 +2,14 @@
 bin/
 gen/
 out/
+
+# Gradle
 build/
+.gradle
 
 #IDE/OS Noise
 .DS_Store
+.settings
+.idea
 *.iml
 local.properties
