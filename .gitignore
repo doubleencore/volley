@@ -10,6 +10,7 @@ build/
 #IDE/OS Noise
 .DS_Store
 .settings
-.idea
+target
 *.iml
+.idea
 local.properties
