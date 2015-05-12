@@ -1,7 +1,14 @@
-bin
-gen
+# Build output
+bin/
+gen/
+out/
+
+# Gradle
+build/
 .gradle
-build
+
+#IDE/OS Noise
+.DS_Store
 .settings
 target
 *.iml
